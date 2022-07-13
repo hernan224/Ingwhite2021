@@ -1,0 +1,67 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Variables
+
+Here is where we declare all our variables like colors, fonts,
+base values, and defaults. We want to make sure this file ONLY
+contains variables that way our files don't get all messy.
+No one likes a mess.
+
+******************************************************************/
+
+/*********************
+COLORS
+Need help w/ choosing your colors? Try this site out:
+http://0to255.com/
+*********************/
+
+$turquesa:          #32878e;
+$turquesa-dark:     darken($turquesa, 8%);
+//$naranja:           #f04f24;
+$naranja:           #E53F2B;
+$verde-caca:        #545f31;
+$azul:              #3d4a56;
+$azul-claro:        #777777;
+$gris-oscuro:       #777777;
+$gris:              #b2b2b2;
+
+/**********************************/
+
+$alert-yellow:      #ebe16f;
+$alert-red:         #fbe3e4;
+$alert-green:       #e6efc2;
+$alert-blue:        #d5edf8;
+
+$iw-alerta-aviso:   #68D975;
+$iw-alerta-importante: #EACA1C;
+$iw-alerta-urgente: #EE5F4D;
+
+$black:             #323944;
+$white:             #fff;
+
+$light-gray:        #f8f9fa;
+$gray:              $gris;
+$text-color:        $gris-oscuro;
+$meta-gray:         $gris-oscuro;
+
+$tan:               #eceee5;
+
+$green:             $verde-caca;
+
+$bones-pink:        #f01d4f;
+$blue:              $azul;
+
+$link-color:        $naranja;
+$link-hover:        lighten($link-color, 12%);
+
+$border-color:      $gris;
+$disabled-gray:     $gris;
+
+
+/*
+Here's a great tutorial on how to
+use color variables properly:
+http://sachagreif.com/sass-color-variables/
+*/

@@ -1,0 +1,636 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Tablet & Small Desktop Stylesheet
+
+Here's where you can start getting into the good stuff.
+This size will work on iPads, other tablets, and desktops.
+So you can start working with more styles, background images,
+and other resources. You'll also notice the grid starts to
+come into play. Have fun!
+
+******************************************************************/
+
+/*********************
+GENERAL STYLES
+*********************/
+
+body {
+}
+
+h1,
+.h1 {
+  font-size: 3rem;
+}
+
+h2,
+.h2 {
+  font-size: 2.25rem;
+}
+
+h3,
+.h3 {
+  font-size: 1.75rem;
+}
+
+h4,
+.h4 {
+  font-size: 1.3333333333333333rem;
+}
+
+h5,
+.h5 {
+  font-size: 1.16667rem;
+}
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+.wrap {
+  width: 760px;
+}
+
+/*********************
+HEADER STYLES
+*********************/
+
+.header {
+  // padding-top: 1rem;
+
+  // #logo {
+  //   margin: 3rem 0 0 0;
+  //   padding: 0;
+  // }
+
+  //  .search-form{
+  //    margin: -3px 0 0;
+  //    max-width: 100%;
+  //
+  //    .search-field{
+  //      left: 25%;
+  //      width: 75%;
+  //    }
+  //  }
+}
+
+// #nav-principal {
+//   margin-top: 3rem;
+// }
+
+.header-social {
+  //top: 2.25em;
+  //text-align: right;
+  justify-content: flex-end;
+
+  &.show-xs {
+    display: none;
+  }
+
+  #nav-principal & {
+    display: flex;
+  }
+}
+
+.menu-fijo {
+  #mobileHeader {
+		.admin-bar & {
+		top: 32px;
+		}
+	}
+
+  #top-header {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: stretch;
+    top: 0;
+    margin: 0;
+    z-index: 800;
+    // background-color: $turquesa;
+    transition: all 0.25s ease;
+
+    .admin-bar & {
+      top: 32px;
+    }
+  }
+
+
+  #nav-principal {
+    position: fixed;
+    width: 100%;
+    top: 70px;
+    //left: 0px;
+    margin: 0px;
+    z-index: 800;
+    box-shadow: 0px 2px 4px 0px rgba(11, 71, 75, 0.4);
+    transition: top 0.25s ease;
+
+    .admin-bar & {
+      top: calc(70px + 32px);
+    }
+
+    // .header-social li a {
+    //   background-color: transparent;
+    // }
+
+    li a {
+      padding: 1em 0.75em;
+    }
+  }
+
+  .header {
+    padding-bottom: 4rem;
+    margin-bottom: 56px;
+  }
+
+  .header-social {
+    //position: fixed;
+    //top: 0;
+    //right: 1em;
+    z-index: 850;
+
+    .admin-bar & {
+      //top: 32px;
+    }
+
+    li {
+      margin: 0;
+
+      a {
+        //padding: 1em 0.75em;
+      }
+    }
+  }
+}
+
+//CLIMA
+.clima-sin-datos {
+  color: #fff;
+}
+.clima-container {
+  // color: #fff;
+  //background-color: rgba($azul, 0.5);
+  margin: 0;
+  // padding: 1.5em 0.5em 0 0.5em;
+  box-sizing: border-box;
+  // text-shadow: 0 0 1px 1px rgba($gris-oscuro, 0.4);
+  position: relative;
+
+  i {
+    color: lighten($azul, 50%);
+    //font-size: 1.2em;
+    margin: 0 0.2em;
+
+    &.clima-icono {
+      font-size: 2.25em;
+    }
+  }
+
+  .clima-estado-general,
+  .clima-detalle {
+    text-align: center;
+  }
+
+  .clima-temp {
+    font-size: 1.75em;
+    //margin-left: 0.25em;
+  }
+
+  .estado-descripcion {
+    //font-size: 1.125em;
+    //font-weight: 600;
+    line-height: 1.15;
+    margin: 0.1em auto;
+    word-break: normal;
+    hyphens: none;
+    font-size: 1.125em;
+  }
+
+  .clima-detalle span {
+    font-weight: 700;
+    margin-top: 0.25em;
+  }
+
+  .clima-btn {
+    // position: absolute;
+    width: 100%;
+    text-align: center;
+    //background-color: rgba(50, 135, 142, 0.6);
+    color: white;
+    font-size: 0.8em;
+    font-weight: 600;
+    // left: 0px;
+    // top: 100%;
+    transition: all 0.3s ease-out;
+    padding: 0.15em 0;
+
+    i {
+      font-size: 0.65em;
+      color: white;
+      margin: 0;
+    }
+
+    &:hover {
+      text-decoration: none;
+      // background: #fff;
+      color: white;
+      transition: all 0.3s ease-in;
+
+      i {
+        font-size: 0.65em;
+        color: white;
+      }
+    }
+  }
+}
+
+/*********************
+NAVIGATION STYLES
+*********************/
+
+.nav.top-nav {
+  border: 0;
+
+  ul {
+    background: $naranja;
+    margin-top: 0;
+  }
+  li {
+    float: left;
+    position: relative;
+
+    a {
+      border-bottom: 0;
+      transition: background 0.2s ease;
+
+      /*
+			you can use hover styles here even though this size
+			has the possibility of being a mobile device.
+			*/
+    }
+
+
+
+    &:first-child {
+    }
+    &:last-child {
+    }
+
+    /*
+		plan your menus and drop-downs wisely.
+		*/
+    ul.sub-menu,
+    ul.children {
+      margin-top: 0;
+      // border: 1px solid #ccc;
+      border-top: 0;
+      position: absolute;
+      visibility: hidden;
+      z-index: 8999;
+      box-shadow: 1px 2px 4px rgba(#000, 0.25);
+
+      li {
+        a {
+          padding-left: 1em;
+          border-right: 0;
+          display: block;
+          width: 180px;
+          border-bottom: 1px solid $link-hover;
+
+          &:hover,
+          &:focus {
+            background-color: $link-hover;
+
+            // .bubble-indication {
+            //   background-color: #fff;
+            //   color: $naranja;
+            // }
+          }
+
+          &:link {
+          }
+        }
+
+        &:first-child {
+        }
+
+        &:last-child {
+          a {
+            border-bottom: 0;
+          }
+        }
+
+        /*
+				if you need to go deeper, go nuts
+				just remember deeper menus suck
+				for usability. k, bai.
+				*/
+        ul {
+          top: 0;
+          left: 100%;
+        }
+      }
+
+      /* highlight sub-menu current page */
+      li.current-menu-item,
+      li.current_page_item,
+      li.current_page_ancestor {
+        a {
+          background-color: $link-hover;
+        }
+      }
+    }
+
+    /* showing sub-menus */
+    &:hover {
+      & > ul {
+        top: auto;
+        visibility: visible;
+      }
+
+      &:hover,
+      &:focus {
+        a {
+          color: $white;
+          background-color: $link-color;
+          transition: background 0.2s ease;
+        }
+      }
+    }
+  } /* end .menu ul li */
+
+  /* highlight current page */
+  li.current-menu-item,
+  li.current_page_item,
+  li.current_page_ancestor {
+    a {
+      background-color: $link-color;
+      color: #fff;
+    }
+  } /* end current highlighters */
+}
+
+/* end .nav */
+
+//** Masonry **//
+
+.item--masonry {
+  width: 48%;
+}
+
+//.sizer{
+//  //margin-right: 1%;
+//  //height: 0;
+//  //visibility: hidden;
+//
+//  &.gutter--sizer{
+//    width: 4%;
+//
+//  }
+//
+//  &.masonry--sizer{
+//    width: 48%;
+//  }
+//
+//}
+
+//****** Noticias por categoría Home
+
+.home--noticias_categoria {
+  .hentry {
+    border-top: none;
+  }
+
+  .byline {
+    display: none;
+  }
+}
+
+/* Contact form [cf7] */
+
+.wpcf7 {
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 400px !important;
+  }
+
+  textarea {
+    padding: 10px;
+    width: 600px !important;
+  }
+} /* end of .wpcf7 */
+
+/*********************
+SIDEBARS & ASIDES
+*********************/
+
+.sidebar {
+}
+
+.widgettitle {
+  margin: 0.25em 0 0.75em 0;
+}
+
+.widget {
+  //margin: 2em 0;
+  //      min-width: 26%;
+  //      display: block;
+
+  ul {
+    li {
+      margin-bottom: 0.25em;
+
+      &:first-child {
+      }
+      &:last-child {
+      }
+      a {
+        color: $gris;
+      }
+      /* deep nesting */
+
+      ul {
+        margin-top: 0.75em;
+        padding-left: 1em;
+      }
+    }
+  }
+
+  //      &.widget_sp_image{
+  //
+  //        max-width: 340px
+  //      }
+
+  &.tribe-events-list-widget {
+    //        width: 100%;
+    //        max-width: auto;
+
+    //        ol li{
+    //          max-width: 48%;
+    //          margin: 1%;
+    //          display: inline-block;
+    //        }
+  }
+}
+
+#sidebar1 {
+  max-width: 100%;
+}
+
+#barra-bottom-home {
+  //margin: auto;
+  max-width: 100%;
+
+  //  .tribe-events-list-widget{
+  //    max-width: calc(100%/3);
+  //
+  //  }
+}
+
+//	/* links widget */
+//	.widget_links {}
+//	.widget_links ul {}
+//	.widget_links ul li {}
+//	.widget_links ul li a {}
+//
+//	/* meta widget */
+//	.widget_meta {}
+//	.widget_meta ul {}
+//	.widget_meta ul li {}
+//	.widget_meta ul li a {}
+//
+//	/* pages widget */
+//	.widget_pages {}
+//	.widget_pages ul {}
+//	.widget_pages ul li {}
+//	.widget_pages ul li a {}
+//
+//	/* recent-posts widget */
+//	.widget_recent_entries {}
+//	.widget_recent_entries ul {}
+//	.widget_recent_entries ul li {}
+//	.widget_recent_entries ul li a {}
+//
+//	/* archives widget */
+//	.widget_archive {}
+//	.widget_archive ul {}
+//	.widget_archive ul li {}
+//	.widget_archive ul li a {}
+//	.widget_archive select {}
+//	.widget_archive option {}
+//
+//	/* tag-cloud widget */
+//	.widget_links {}
+//	.widget_links li:after {}
+//	.widget_links li:before {}
+//	.widget_tag_cloud {}
+//	.widget_tag_cloud a {}
+//	.widget_tag_cloud a:after {}
+//	.widget_tag_cloud a:before {}
+//
+//	/* calendar widget */
+//	.widget_calendar {}
+//	#calendar_wrap {}
+//	#calendar_wrap th {}
+//	#calendar_wrap td {}
+//	#wp-calendar tr td {}
+//	#wp-calendar caption {}
+//	#wp-calendar a {}
+//	#wp-calendar #today {}
+//	#wp-calendar #prev {}
+//	#wp-calendar #next {}
+//	#wp-calendar #next a {}
+//	#wp-calendar #prev a {}
+//
+//	/* category widget */
+//	.widget_categories {}
+//	.widget_categories ul {}
+//	.widget_categories ul li {}
+//	.widget_categories ul ul.children {}
+//	.widget_categories a {}
+//	.widget_categories select{}
+//	.widget_categories select#cat {}
+//	.widget_categories select.postform {}
+//	.widget_categories option {}
+//	.widget_categories .level-0 {}
+//	.widget_categories .level-1 {}
+//	.widget_categories .level-2 {}
+//	.widget_categories .level-3 {}
+//
+//	/* recent-comments widget */
+//	.recentcomments {}
+//	#recentcomments {}
+//	#recentcomments li {}
+//	#recentcomments li a {}
+//	.widget_recent_comments {}
+//
+//	/* search widget */
+//	#searchform {}
+//	.widget_search {}
+//	.screen-reader-text {}
+//
+//	/* text widget */
+//	.textwidget {}
+//	.widget_text {}
+//	.textwidget p {}
+
+/*********************
+IW ALERTAS
+**********************/
+#iwAlertasHome {
+  .swiper-pagination {
+    padding-right: 14px;
+  }
+}
+.iw-alerta {
+  .iw-alerta-titulo {
+    hyphens: none;
+  }
+
+  .iw-alerta-label {
+    &.-block {
+      font-size: 16px;
+      width: 125px;
+    }
+  }
+
+  &.alerta-post {
+    .iw-alerta-titulo {
+      font-size: 1.25rem;
+      margin: 0.5em 0;
+    }
+  }
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.social-footer {
+  margin: 0.5rem 0 0;
+  text-align: right;
+}
+
+/*
+you'll probably need to do quite a bit
+of overriding here if you styled them for
+mobile. Make sure to double check these!
+*/
+//.footer-links {
+//	ul {
+//		li {
+//			a {
+//				&:hover {}
+//			}
+//			/*
+//			be careful with the depth of your menus.
+//			it's very rare to have multi-depth menus in
+//			the footer.
+//			*/
+//			ul {}
+//		}
+//	}
+//} /* end .footer-links */

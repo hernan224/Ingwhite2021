@@ -1,0 +1,42 @@
+/******************************************************************
+Site Name: 
+Author: 
+
+Stylesheet: Super Large Monitor Stylesheet
+
+You can add some advanced styles here if you like. This kicks in
+on larger screens.
+
+******************************************************************/
+
+
+body{
+  font-size: (16/14)+em;
+}
+
+h1, .h1 {
+  font-size: 3.33333rem;
+}
+
+h2, .h2 {
+  font-size: 2.6667rem;
+}
+
+h3, .h3 {
+  font-size: 2rem;
+}
+
+
+.wrap {
+  width: 1140px;
+}
+
+.header-social {
+  //top: 2em;
+  //text-align: right;
+  //justify-content: flex-end;
+
+  li a{
+    padding: 0.8em 1em;
+  }
+}

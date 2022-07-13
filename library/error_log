@@ -1,0 +1,288 @@
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[02-Mar-2020 07:34:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[02-Mar-2020 07:34:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[02-Mar-2020 07:34:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[02-Mar-2020 07:34:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[02-Mar-2020 07:34:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[02-Mar-2020 07:34:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[02-Mar-2020 07:34:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[02-Mar-2020 07:34:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/admin.php on line 103
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-post-type.php on line 18
+[09-Jul-2020 21:55:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ingenierowhite/public_html/sitio_core/wp-content/themes/Ingwhite/library/custom-taxonomies.php on line 37

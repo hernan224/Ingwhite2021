@@ -1,0 +1,108 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Desktop Stylsheet
+
+This is the desktop size. It's larger than an iPad so it will only
+be seen on the Desktop.
+
+******************************************************************/
+
+
+
+.wrap {
+  width: 960px;
+}
+
+
+
+// #nav-principal{
+//   margin-top: 3rem;
+// }
+
+#menu-menu-principal{
+  display: inline-block;
+}
+
+.tinynav{
+  display: none;
+}
+
+.clima-container{
+  // .clima-estado-general{
+  //   display: inline-block;
+  //   width: 56%;
+  //   margin: 0 2% 0 0;
+  //   vertical-align: top;
+  //   position: relative;
+  // }
+
+  .clima-icono{
+    font-size: 2.5em;
+    margin-left: 0;
+  }
+
+  .weather-icon {
+    width: 38px;
+    height: 38px;
+  }
+
+  .clima-temp{
+    font-size: 1.666em;
+  }
+
+  .clima-detalle{
+    display: inline-block;
+    width: 40%;
+    text-align: left;
+
+
+    span{
+      display: block;
+      margin: auto;
+    }
+
+    .clima-separador{
+      display: none;
+    }
+  }
+}
+
+.sidebar {
+  //margin-top: 2.5em;
+  padding-left: 2rem;
+  display: block;
+}
+
+.widget{
+  border: none;
+  margin: 1.5rem 0;
+
+  &.widget_sp_image{
+    max-width: 100%;
+  }
+
+  &.shortcodes-ultimate{
+    display: block;
+  }
+
+  &.tribe-events-list-widget ol li{
+//    max-width: 100%;
+//    display: block;
+    //margin: 0;
+  }
+
+  #barra-bottom-home &{
+    border-top: none;
+  }
+
+}
+
+#sidebar1{
+  margin: 0;
+}
+
+.iw-alerta .iw-alerta-label {
+  padding-left: 1.5vw;
+}
